@@ -1,11 +1,16 @@
 _repo: Stephen-H-Branch-s-Alligator-Vol-1-no-23-September-25-1858_55015
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55015-h/images/cover.jpg
 creator:
   editor:
     agent_name: Branch, Stephen H.
     gutenberg_agent_id: '44730'
     url: http://www.gutenberg.org/2009/agents/44730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55015#Stephen-H-Branch-s-Alligator-Vol-1-no-23-September-25-1858
 gutenberg_issued: '2017-06-30'
 gutenberg_type: Text
 identifiers:
